@@ -1,53 +1,53 @@
 ---
 layout: archive
-title: "科研与工程项目"
+title: "Research and Engineering Projects"
 permalink: /projects/
 author_profile: true
 ---
 
-项目负责人
+Projects as Principal Lead
 ======
 
-### 无人机智能巡检
+### Intelligent UAV Inspection
 
-**南方电网从化供电局，2025**
+**Conghua Power Supply Bureau, China Southern Power Grid, 2025**
 
-围绕智能飞行控制、激光雷达测距、三维重建算法及智能停机坪系统，构建面向输电线路的自动化巡检方案。负责总体方案、任务分解、设备联动、数据采集机制及成果交付。
+Developed an automated transmission-line inspection solution integrating intelligent flight control, LiDAR ranging, 3D reconstruction, and an intelligent docking station. Led the overall technical design, task decomposition, equipment coordination, data acquisition workflow, and project delivery.
 
-### 工业互联网辅助技术服务
+### Industrial Internet Technical Services
 
-**南方电网**
+**China Southern Power Grid**
 
-面向工程建设全生命周期管理，开展人员画像、项目管理画像和施工方案智能管理研究。负责需求分析、技术路线设计与成果整理。
+Conducted research on personnel profiling, project-management profiling, and intelligent construction-plan management for full-lifecycle infrastructure management. Led requirements analysis, technical roadmap design, and deliverable preparation.
 
-### “AI + 安检机器人”系统
+### AI-Powered Security Inspection Robot
 
-**深圳地铁，2025**
+**Shenzhen Metro, 2025**
 
-构建“安检设备 - AI 感知 - 机器人交互 - 后台联动”流程，融合多模态感知、异常识别、人机交互与设备联动，推动智能安检方案工程化落地。
+Designed an integrated workflow connecting security equipment, AI perception, robot interaction, and backend systems. The project combines multimodal perception, anomaly recognition, human-robot interaction, and equipment coordination to support deployable intelligent security inspection.
 
-### 东莞引育未来产业策略研究
+### Future Industry Development Strategy for Dongguan
 
-**中共东莞市委政策研究室**
+**Policy Research Office of the CPC Dongguan Municipal Committee**
 
-围绕人工智能、机器人、新能源等未来产业，研究区域产业基础、重点方向、发展路径与引育策略，负责报告框架设计、资料调研和内容撰写。
+Studied the regional foundations, priority sectors, development pathways, and industry-attraction strategies for artificial intelligence, robotics, new energy, and other future industries. Led the report structure, research, and writing.
 
-### 地铁列车接触器多品牌适配优化及降本
+### Multi-Brand Contactor Adaptation and Cost Optimization
 
-**深圳地铁**
+**Shenzhen Metro**
 
-针对牵引逆变器、预充电接触器等关键部件开展多品牌适配。通过选型与维护策略优化，维护成本降低约 50%，节省约 1462 万元。
+Evaluated and adapted multiple brands of key electrical components, including traction-inverter and pre-charge contactors. Optimized equipment selection and maintenance strategies, reducing maintenance costs by approximately 50% and saving about RMB 14.62 million.
 
-科研与核心骨干项目
+Research and Core Team Projects
 ======
 
-- 面向电网线路巡检的飞行吊舱及续航中继协同系统研发服务。
-- 轮足式机器人智能巡检技术。
-- 基于双光融合技术的智能机器人巡检。
-- 现场安全智能管理技术应用研究。
-- 基于生成式 AI 的施工方案全生命周期智能构建与动态调控。
-- 国家自然科学基金面上项目：融合通信参数的多变量网络化系统分析与设计。
-- 国家自然科学基金项目：有限电流信号下牵引逆变器关键器件耦合故障诊断。
-- 湖南省自然科学基金项目：残缺特征与样本下的牵引逆变器关键器件耦合故障诊断。
-- 湖南省科技创新领军人才计划：轨道交通牵引系统关键技术优化。
-- 城市轨道交通地铁列车架修与大修通用规程编制及标准化体系建设。
+- Development of an inspection pod and endurance-relay coordination system for power-line UAV inspection.
+- Intelligent inspection technology for wheeled-legged robots.
+- Dual-spectrum fusion robotic inspection for infrastructure construction sites.
+- Intelligent on-site safety management using UAVs, wearable devices, video, and multimodal data.
+- Generative-AI-based lifecycle construction-plan generation and dynamic regulation.
+- National Natural Science Foundation of China: analysis and design of multivariable networked systems incorporating communication parameters.
+- National Natural Science Foundation of China: coupled-fault diagnosis of key traction-inverter components using limited current signals.
+- Natural Science Foundation of Hunan Province: coupled-fault diagnosis under incomplete features and limited samples.
+- Hunan Science and Technology Innovation Leading Talent Program: optimization of key rail-transit traction-system technologies.
+- Standardization of general overhaul procedures for urban rail-transit vehicles.

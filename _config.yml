@@ -7,12 +7,12 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "zh-CN"
+locale                   : "en-US"
 site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "张文康 | Wenkang Zhang"
+title                    : "Wenkang Zhang"
 title_separator          : "-"
-name                     : &name "张文康"
-description              : &description "张文康的学术主页：电力电子故障诊断、可靠性、人工智能、网络化控制系统与机器人系统。"
+name                     : &name "Wenkang Zhang"
+description              : &description "Wenkang Zhang's academic website: power electronics fault diagnosis, reliability, artificial intelligence, networked control systems, and robotics."
 url                      : https://cloundkk.github.io
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,11 +24,11 @@ repository               : "cloundkk/cloundkk.github.io"
 author:
   # Biographic information
   avatar           : "https://avatars.githubusercontent.com/u/166307057?v=4"
-  name             : "张文康"
+  name             : "Wenkang Zhang"
   pronouns         : # example: "she/her"  
-  bio              : "华南理工大学博士研究生｜电力电子、智能诊断与机器人系统"
-  location         : "广州 / 丹麦奥尔堡"
-  employer         : "华南理工大学未来技术学院"
+  bio              : "Ph.D. Candidate | Power Electronics, Intelligent Diagnosis, and Robotics"
+  location         : "Guangzhou, China / Aalborg, Denmark"
+  employer         : "South China University of Technology"
   uri              : # URL
   email            : "wenkangkk93@gmail.com"
 

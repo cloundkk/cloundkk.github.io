@@ -1,62 +1,62 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-教育经历
+Education
 ======
 
-- **华南理工大学**，信息与通信工程博士，未来技术学院，2023.09 - 至今  
-  GPA：3.86 / 4.00；导师：靳战鹏教授
-- **丹麦奥尔堡大学**，电力系统与微电网联合培养博士，能源工程科学学院，2025.11 - 2026.11  
-  合作导师：陈哲教授
-- **湖北师范大学**，电气工程及其自动化本硕，2012.09 - 2020.06  
-  GPA：3.80 / 4.00
+- **South China University of Technology**, Ph.D. in Information and Communication Engineering, Future Technology Institute, Sep. 2023 - Present<br>
+  GPA: 3.86/4.00. Supervisor: Professor Zhanpeng Jin.
+- **Aalborg University**, Visiting Ph.D. Researcher in Power Systems and Microgrids, AAU Energy, Nov. 2025 - Nov. 2026<br>
+  Host supervisor: Professor Zhe Chen.
+- **Hubei Normal University**, B.Eng. and M.Eng. in Electrical Engineering and Automation, Sep. 2012 - Jun. 2020<br>
+  GPA: 3.80/4.00.
 
-工作经历
+Professional Experience
 ======
 
-- **深圳地铁运营集团**，技术工程师，2020.07 - 2023.09  
-  从事列车主电路、辅助逆变系统及车辆总装调试工作。
-- **国家电网山东枣庄供电局**，实习，2014.06 - 2014.12  
-  参与供电、配电及物资管理工作，获评优秀实习生。
+- **Shenzhen Metro Group**, Technical Engineer, Jul. 2020 - Sep. 2023<br>
+  Worked on train main circuits, auxiliary inverter systems, vehicle assembly, and commissioning.
+- **State Grid Zaozhuang Power Supply Company**, Intern, Jun. 2014 - Dec. 2014<br>
+  Participated in power supply, distribution, and materials-management operations; recognized as an Outstanding Intern.
 
-代表性项目
+Selected Projects
 ======
 
-- 南方电网从化供电局：2025 年无人机智能巡检项目，项目负责人。
-- 南方电网工业互联网辅助技术服务项目，项目负责人。
-- 深圳地铁：2025 年“AI + 安检机器人”系统，项目负责人。
-- 中共东莞市委政策研究室：东莞引育未来产业策略研究，项目负责人。
-- 深圳地铁：电气系统接触器多品牌适配优化及降本，项目负责人。
-- 国家自然科学基金面上项目：融合通信参数的多变量网络化系统分析与设计，核心骨干。
-- 国家自然科学基金项目：有限电流信号下牵引逆变器关键器件耦合故障诊断，核心骨干。
+- Intelligent UAV Inspection Project, Conghua Power Supply Bureau, China Southern Power Grid — Project Lead.
+- Industrial Internet Technical Services, China Southern Power Grid — Project Lead.
+- AI-Powered Security Inspection Robot System, Shenzhen Metro — Project Lead.
+- Future Industry Development Strategy for Dongguan — Project Lead.
+- Multi-Brand Contactor Adaptation and Cost Optimization, Shenzhen Metro — Project Lead.
+- NSFC General Program: Analysis and Design of Multivariable Networked Systems Incorporating Communication Parameters — Core Team Member.
+- NSFC Project: Coupled-Fault Diagnosis of Key Traction-Inverter Components Using Limited Current Signals — Core Team Member.
 
-论文与专利
+Publications and Patents
 ======
 
-完整列表请见 [Publications](/publications/) 页面。
+See the complete [Publications](/publications/) page.
 
-- 第一作者 SCI 论文 6 篇。
-- 已授权发明专利 1 项，另有 5 项专利申请已受理。
-- 研究涵盖逆变器故障诊断、牵引系统可靠性、边云协同 AIoT、机器人视觉检测与点云处理。
+- First author of six SCI journal papers.
+- One granted invention patent and five additional patent applications.
+- Research topics include inverter fault diagnosis, traction-system reliability, edge-cloud AIoT, robotic vision, and point-cloud processing.
 
-荣誉与学术服务
+Honors and Academic Service
 ======
 
-- 华南理工大学未来技术学院党支部优秀党员。
-- 一等学业奖学金、社会活动奖学金、优秀研究生、科研创新奖等。
-- 深圳市轨道交通协会“创新技术风采演绎奖”。
-- *IEEE Journal of Emerging and Selected Topics in Power Electronics* 审稿人。
+- Outstanding Party Member, Future Technology Institute, South China University of Technology.
+- First-Class Academic Scholarship, Social Activities Scholarship, Outstanding Graduate Student, and Research Innovation Award.
+- Innovation Technology Presentation Award, Shenzhen Rail Transit Association.
+- Reviewer for *IEEE Journal of Emerging and Selected Topics in Power Electronics*.
 
-专业技能
+Skills
 ======
 
-- Python、机器学习与深度学习基础算法。
-- 项目申报、技术方案、投标文件及科研答辩材料编制。
-- Word、PowerPoint、Excel；全国计算机等级考试二级（MS Office）。
-- 中文（母语）、英语（科研与工程交流）。
+- Python, machine learning, and deep learning.
+- Research proposals, technical solutions, tender documents, and scientific presentations.
+- Microsoft Word, PowerPoint, and Excel; National Computer Rank Examination Level 2 (MS Office).
+- Chinese: native; English: professional research and engineering communication.
