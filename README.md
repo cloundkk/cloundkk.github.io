@@ -8,7 +8,7 @@
 
 1. 在 GitHub 创建公开仓库 `cloundkk.github.io`。
 2. 将本目录全部文件提交并推送到仓库的 `master` 或 `main` 分支。
-3. 在仓库 `Settings > Pages` 中将部署来源设为 **GitHub Actions**。
+3. GitHub Pages 已配置为从 `main` 分支自动构建与发布。
 4. 等待部署完成后访问上方网址。
 
 ## 主要内容位置
