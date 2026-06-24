@@ -1,0 +1,12 @@
+main:
+  - title: "首页"
+    url: /
+
+  - title: "Publications"
+    url: /publications/
+
+  - title: "科研项目"
+    url: /projects/
+
+  - title: "CV"
+    url: /cv/
